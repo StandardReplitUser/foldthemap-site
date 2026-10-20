@@ -22,9 +22,9 @@ Google's SDK may collect the following, according to [Google's data disclosure](
 Google uses this data to serve and measure ads and to prevent fraud. See [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
 ## Tracking permission (App Tracking Transparency)
-Before the first ad, the game asks for Apple's permission to use your advertising identifier.
+After your first play session, the game asks for Apple's permission to use your advertising identifier.
 - **If you allow it**, Google may use the IDFA to show you **personalized ads**.
-- **If you don't**, the IDFA isn't available and every ad is requested as **non-personalized**.
+- **If you don't**, or until you've been asked, the IDFA isn't available and every ad is requested as **non-personalized**.
 The game plays the same either way. You can change your choice at any time in **iPhone Settings → Privacy & Security → Tracking**.
 
 ## Consent (EEA, UK and Switzerland)
