@@ -4,13 +4,13 @@
 ## FAQ
 **How do I play?** Swipe across the map to fold it. Matching landmarks that land on each other merge into the next tier: campfire → tent → … → capital city. Reach the goal shown at the top of the level.
 
-**I'm stuck.** Every level can be solved. Use **Undo** to step back or **Reset** to start the level again. From level 6 on (and in the Daily Atlas), **Hint** shows the next fold; the first levels teach the moves step by step. A solve that used a hint earns up to 2 stars.
+**I'm stuck.** Every level can be solved. Use **Undo** to step back or **Reset** to start the level again. From level 6 on (and in the Daily Atlas), **Hint** shows the next fold; the first levels teach the moves step by step. Up to level 20, the first hint in each level is a free teaching hint (marked FREE): it doesn't cost anything and you can still earn 3 stars. Any other hint caps that solve at 2 stars.
 
 **Where do hints come from?** The daily top-up, chests on the map, Daily Atlas streak rewards, hint packs in the Shop, and an optional short video ad for a hint (up to 5 a day). You never have to buy anything to finish a level.
 
 **Is my progress saved?** Yes, on this device only. There are no accounts, so progress doesn't move between devices, and deleting the game deletes progress.
 
-**What does Remove Ads do?** It removes the ads between levels and gives you unlimited hints, so the optional "watch a video for a hint" button is no longer shown. Hinted solves still earn up to 2 stars.
+**What does Remove Ads do?** It removes the ads between levels and gives you unlimited hints, so the optional "watch a video for a hint" button is no longer shown. As with any hint other than the free teaching hint, a solve that used one earns up to 2 stars.
 
 **I bought Remove Ads. How do I restore it?** In the game, open Settings → **Restore purchases**, signed in with the same Apple Account you bought it with. Hint packs are used up when you use them, so they aren't restored.
 
