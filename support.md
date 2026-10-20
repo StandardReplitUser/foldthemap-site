@@ -21,4 +21,4 @@
 **How do I stop personalized ads?** iPhone Settings → Privacy & Security → Tracking. See our [Privacy Policy](privacy.html).
 
 ## Reporting a bug
-Email us the device model, iOS version, game version (iPhone Settings → General → iPhone Storage → Fold the Map) and what happened. A screenshot or screen recording helps.
+Email [jurbanstudio@mail.grokbot.com](mailto:jurbanstudio@mail.grokbot.com) with the device model, iOS version, game version (iPhone Settings → General → iPhone Storage → Fold the Map) and what happened. A screenshot or screen recording helps.
