@@ -1,43 +1,46 @@
 # Privacy Policy: Fold the Map
-**Effective date:** Draft, to be set at launch  ·  **Developer:** Kinetix Studio  ·  **Contact:** [Open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues)
+**Effective date:** October 30, 2026  ·  **Developer:** Kinetix Studio  ·  **Contact:** [Open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues)
 
-> DRAFT, 2026-10-14. Not legal advice. Have it reviewed before publishing. Update it if the SDKs or features change.
+Fold the Map ("the game") is a single-player puzzle game for iPhone. **There are no accounts, no login, no chat and no user-generated content, and we don't run any servers for the game.** We, the developer, don't receive your name, email, contacts, photos, location or payment details.
 
-Fold the Map ("the game") is a single-player puzzle game. **It has no accounts, no login, no chat, and no user-generated content.** Your progress and settings are stored only on your device.
+## What stays on your device
+- **Your progress and settings** (levels, stars, hints, streaks, purchases you own, sound and display choices) are saved in the game's own storage on your iPhone. They are not sent to us.
+- **Daily reminder (optional):** if you turn it on, the game schedules a notification on your iPhone. It's created on the device; nothing is sent to us.
+- **Playtest log (TestFlight test builds only):** test versions distributed through Apple's TestFlight keep a local log of gameplay events (for example level started or finished, time and number of folds, and hints, undos and resets used). It never leaves the device by itself; a tester can choose to copy it and send it to us. The App Store version doesn't keep this log.
 
-## What we collect
-We, the developer, do not collect your name, email, contacts, photos, or precise location, and we don't run our own servers for the game.
-*(If we add first-party analytics or crash reporting later, we will list it here before release.)*
+## In-app purchases
+The game sells **hint packs** (5 hints or 15 hints) and **Remove Ads** (removes the ads between levels and gives unlimited hints). Purchases are processed by **Apple**. We don't receive your payment details. The game only learns from Apple which item was bought, so it can add the hints or remove the ads. Remove Ads can be restored on a new device with **Restore purchases** in Settings; hint packs are used up and are not restored.
 
-## Advertising (Google AdMob)
-The free version shows ads served by **Google AdMob** (the Google Mobile Ads SDK). Google says the SDK may collect the following ([Google: App store data disclosure](https://developers.google.com/admob/ios/privacy/data-disclosure)):
-- **IP address**, which may be used to estimate the general location of the device;
-- **Non-user-related crash logs** and diagnostics;
-- **Performance data** such as app launch time, hang rate or energy usage;
-- **A device identifier**, such as the advertising identifier (IDFA, only if you allow tracking) or app- or developer-scoped identifiers;
-- **Advertising data**, such as ads you have seen;
-- **Product interactions**, such as app launch taps and video views.
-Google uses this data to serve and measure ads, prevent fraud, and improve its services, under [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
-*(If ad mediation networks are added, list each network and link its privacy policy here.)*
+## Ads (Google AdMob)
+The free version shows ads from **Google AdMob** (the Google Mobile Ads SDK): an occasional ad between levels, and an optional video you can choose to watch for a hint. Removing ads stops both.
+Google's SDK may collect the following, according to [Google's data disclosure](https://developers.google.com/admob/ios/privacy/data-disclosure):
+- your **IP address**, which may be used to estimate your general location;
+- **diagnostics**: crash logs and performance data such as app launch time;
+- **device identifiers**: the **advertising identifier (IDFA) only if you allow tracking** (see below), plus identifiers scoped to the app or developer;
+- **advertising data**, such as which ads you've seen;
+- **product interactions**, such as app launches, taps and video views.
+Google uses this data to serve and measure ads and to prevent fraud. See [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
 ## Tracking permission (App Tracking Transparency)
-On iOS 14.5 and later, we ask your permission before your advertising identifier can be used to track you across other companies' apps and websites. **The game works the same whether you allow or deny it.** If you deny it, you still see ads, but they aren't personalised using your IDFA. You can change this at any time in **Settings → Privacy & Security → Tracking**.
-For users in the EEA, UK and Switzerland, we show a consent message (Google's consent tool) where required by law.
+Before the first ad, the game asks for Apple's permission to use your advertising identifier.
+- **If you allow it**, Google may use the IDFA to show you **personalized ads**.
+- **If you don't**, the IDFA isn't available and every ad is requested as **non-personalized**.
+The game plays the same either way. You can change your choice at any time in **iPhone Settings → Privacy & Security → Tracking**.
 
-## Remove Ads purchase
-Purchases are processed by Apple. We don't receive your payment details. We only learn, through Apple, whether the purchase is active so that ads can be turned off. You can restore it with **Restore Purchases**.
+## Consent (EEA, UK and Switzerland)
+Where the law requires it, the game shows Google's consent message (Google's User Messaging Platform) before any ad is requested, and no ads are requested until you've answered. In those regions a **Privacy choices** button in the game's Settings lets you change your answer later.
 
 ## Children
-The game is intended for a general audience aged **13 and over**. It is not directed to children under 13 and is not in the App Store Kids category. If we learn that a player is under 13, ad requests for that player are marked for child-directed treatment, which means no personalised ads and no advertising identifier. Parents who believe their child has used the game can contact us at the address above.
+The game is not directed at children under 13, and we don't knowingly collect personal information from children under 13. If you believe a child has used the game and want help, contact us using the link above.
 
-## Retention and deletion
-We hold no personal data on our servers. Deleting the game removes all locally stored progress. For data held by Google, see Google's privacy controls (https://myadcenter.google.com) and Google's privacy policy.
+## Keeping and deleting data
+We hold no personal data, because we have no servers. Deleting the game deletes everything it stored on your iPhone. For data held by Google, see [My Ad Center](https://myadcenter.google.com) and Google's Privacy Policy.
 
 ## Your rights
-Depending on where you live (e.g. the EU/UK under GDPR, or California under CCPA/CPRA), you may have rights to access, delete or object to the processing of your data. Contact us and we'll help, including directing you to Google for ad data.
+Depending on where you live (for example under the GDPR in the EU/UK or the CCPA/CPRA in California) you may have rights to access, delete or object to the use of your data. Contact us and we'll help, including pointing you to Google for ad data.
 
 ## Changes
-We will update this page and its effective date if our practices change.
+If what the game does with data changes, we'll update this page and its effective date.
 
 ## Contact
 [Open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues)
