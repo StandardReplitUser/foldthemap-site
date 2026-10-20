@@ -1,5 +1,5 @@
 # Privacy Policy: Fold the Map
-**Effective date:** October 30, 2026  ·  **Developer:** Kinetix Studio  ·  **Contact:** [Open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues)
+**Effective date:** October 30, 2026  ·  **Developer:** Kinetix Studio  ·  **Contact:** [jurbanstudio@mail.grokbot.com](mailto:jurbanstudio@mail.grokbot.com) (or [open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues))
 
 Fold the Map ("the game") is a single-player puzzle game for iPhone. **There are no accounts, no login, no chat and no user-generated content, and we don't run any servers for the game.** We, the developer, don't receive your name, email, contacts, photos, location or payment details.
 
@@ -31,7 +31,7 @@ The game plays the same either way. You can change your choice at any time in **
 Where the law requires it, the game shows Google's consent message (Google's User Messaging Platform) before any ad is requested, and no ads are requested until you've answered. In those regions a **Privacy choices** button in the game's Settings lets you change your answer later.
 
 ## Children
-The game is not directed at children under 13, and we don't knowingly collect personal information from children under 13. If you believe a child has used the game and want help, contact us using the link above.
+The game is not directed at children under 13, and we don't knowingly collect personal information from children under 13. If you believe a child has used the game and want help, contact us at the email address below.
 
 ## Keeping and deleting data
 We hold no personal data, because we have no servers. Deleting the game deletes everything it stored on your iPhone. For data held by Google, see [My Ad Center](https://myadcenter.google.com) and Google's Privacy Policy.
@@ -43,4 +43,5 @@ Depending on where you live (for example under the GDPR in the EU/UK or the CCPA
 If what the game does with data changes, we'll update this page and its effective date.
 
 ## Contact
-[Open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues)
+Email: [jurbanstudio@mail.grokbot.com](mailto:jurbanstudio@mail.grokbot.com)
+You can also [open a support request on GitHub](https://github.com/StandardReplitUser/foldthemap-site/issues) (requests there are public, so please don't post personal details).
