@@ -9,35 +9,19 @@ Fold the Map ("the game") is a single-player puzzle game for iPhone. **There are
 - **Playtest log (TestFlight test builds only):** test versions distributed through Apple's TestFlight keep a local log of gameplay events (for example level started or finished, time and number of folds, and hints, undos and resets used). It never leaves the device by itself; a tester can choose to copy it and send it to us. The App Store version doesn't keep this log.
 
 ## In-app purchases
-The game sells **hint packs** (5 hints or 15 hints) and **Remove Ads** (removes the ads between levels and gives unlimited hints). Purchases are processed by **Apple**. We don't receive your payment details. The game only learns from Apple which item was bought, so it can add the hints or remove the ads. Remove Ads can be restored on a new device with **Restore purchases** in Settings; hint packs are used up and are not restored.
+The game sells **hint packs** (5 hints or 15 hints) and **Unlimited Hints** (unlimited hints for good, and it supports the studio). Purchases are processed by **Apple**. We don't receive your payment details. The game only learns from Apple which item was bought, so it can add the hints, and it remembers on your iPhone what you own. Unlimited Hints can be restored on a new device with **Restore purchases** in Settings; hint packs are used up and are not restored.
 
-## Ads (Google AdMob)
-The free version shows ads from **Google AdMob** (the Google Mobile Ads SDK): an occasional ad between levels, and an optional video you can choose to watch for a hint. Removing ads stops both.
-Google's SDK may collect the following, according to [Google's data disclosure](https://developers.google.com/admob/ios/privacy/data-disclosure):
-- your **IP address**, which may be used to estimate your general location;
-- **diagnostics**: crash logs and performance data such as app launch time;
-- **device identifiers**: the **advertising identifier (IDFA) only if you allow tracking** (see below), plus identifiers scoped to the app or developer;
-- **advertising data**, such as which ads you've seen;
-- **product interactions**, such as app launches, taps and video views.
-Google uses this data to serve and measure ads and to prevent fraud. See [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
-
-## Tracking permission (App Tracking Transparency)
-After your first play session, the game asks for Apple's permission to use your advertising identifier.
-- **If you allow it**, Google may use the IDFA to show you **personalized ads**.
-- **If you don't**, or until you've been asked, the IDFA isn't available and every ad is requested as **non-personalized**.
-The game plays the same either way. You can change your choice at any time in **iPhone Settings → Privacy & Security → Tracking**.
-
-## Consent (EEA, UK and Switzerland)
-Where the law requires it, the game shows Google's consent message (Google's User Messaging Platform) before any ad is requested, and no ads are requested until you've answered. In those regions a **Privacy choices** button in the game's Settings lets you change your answer later.
+## No ads, no tracking
+The game shows **no ads** and contains **no advertising or analytics software**. It doesn't track you across apps or websites, doesn't use your device's advertising identifier, and doesn't ask for tracking permission.
 
 ## Children
 The game is not directed at children under 13, and we don't knowingly collect personal information from children under 13. If you believe a child has used the game and want help, contact us at the email address below.
 
 ## Keeping and deleting data
-We hold no personal data, because we have no servers. Deleting the game deletes everything it stored on your iPhone. For data held by Google, see [My Ad Center](https://myadcenter.google.com) and Google's Privacy Policy.
+We hold no personal data, because we have no servers. Deleting the game deletes everything it stored on your iPhone. Your purchase history with Apple is managed by Apple (see Apple's Privacy Policy).
 
 ## Your rights
-Depending on where you live (for example under the GDPR in the EU/UK or the CCPA/CPRA in California) you may have rights to access, delete or object to the use of your data. Contact us and we'll help, including pointing you to Google for ad data.
+Depending on where you live (for example under the GDPR in the EU/UK or the CCPA/CPRA in California) you may have rights to access, delete or object to the use of your data. Because the game keeps your data only on your iPhone, deleting the game removes it; contact us and we'll help with any question.
 
 ## Changes
 If what the game does with data changes, we'll update this page and its effective date.
