@@ -18,7 +18,7 @@ The game shows **no ads** and contains **no advertising or analytics software**.
 The game is not directed at children under 13, and we don't knowingly collect personal information from children under 13. If you believe a child has used the game and want help, contact us at the email address below.
 
 ## Keeping and deleting data
-We hold no personal data, because we have no servers. Deleting the game deletes everything it stored on your iPhone. Your purchase history with Apple is managed by Apple (see Apple's Privacy Policy).
+We hold no personal data, because we have no servers, so the game's App Store privacy label is **Data Not Collected**. Deleting the game deletes everything it stored on your iPhone. Your purchase history with Apple is managed by Apple (see Apple's Privacy Policy).
 
 ## Your rights
 Depending on where you live (for example under the GDPR in the EU/UK or the CCPA/CPRA in California) you may have rights to access, delete or object to the use of your data. Because the game keeps your data only on your iPhone, deleting the game removes it; contact us and we'll help with any question.
