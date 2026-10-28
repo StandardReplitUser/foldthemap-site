@@ -1,5 +1,5 @@
 # Privacy Policy: Fold the Map
-**Effective date:** October 30, 2026  ·  **Developer:** Kinetix Studio  ·  **Contact:** [jurbanstudio@mail.grokbot.com](mailto:jurbanstudio@mail.grokbot.com) (or [open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues))
+**Effective date:** October 28, 2026  ·  **Developer:** Kinetix Studio  ·  **Contact:** [jurbanstudio@mail.grokbot.com](mailto:jurbanstudio@mail.grokbot.com) (or [open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues))
 
 Fold the Map ("the game") is a single-player puzzle game for iPhone. **There are no accounts, no login, no chat and no user-generated content, and we don't run any servers for the game.** We, the developer, don't receive your name, email, contacts, photos, location or payment details.
 
