@@ -16,7 +16,9 @@
 
 **How do I request a refund?** Purchases are handled by Apple: [Request a refund for apps or content that you bought from Apple](https://support.apple.com/118223).
 
-**I saw an inappropriate ad.** Email us at [jurbanstudio@mail.grokbot.com](mailto:jurbanstudio@mail.grokbot.com) with the time and a screenshot, and we'll block it in AdMob.
+**I saw an inappropriate ad.** The game only asks for ads suitable for all ages. If one isn't, tap the ⓘ (AdChoices) icon on the ad to report it to Google, or email us at [jurbanstudio@mail.grokbot.com](mailto:jurbanstudio@mail.grokbot.com) with the time and a screenshot, and we'll block it in AdMob.
+
+**Why can't I watch a video for a hint?** In the EEA, the UK and Switzerland, ads only load after you've answered Google's consent message. If you haven't answered it, the game tells you to use Settings → **Privacy choices**. If the game couldn't check your choice (for example, you were offline), connect and tap Hint again. Hint packs, the daily top-up and chests work either way.
 
 **How do I stop personalized ads?** iPhone Settings → Privacy & Security → Tracking. In the EEA, the UK and Switzerland you can also change your ad consent in the game: Settings → **Privacy choices**. See our [Privacy Policy](privacy.html).
 

@@ -19,7 +19,7 @@ Google's SDK may collect the following, according to [Google's data disclosure](
 - **device identifiers**: the **advertising identifier (IDFA) only if you allow tracking** (see below), plus identifiers scoped to the app or developer;
 - **advertising data**, such as which ads you've seen;
 - **product interactions**, such as app launches, taps and video views.
-Google uses this data to serve and measure ads and to prevent fraud. See [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
+Google uses this data to serve and measure ads and to prevent fraud. The game asks Google for ads suitable for all ages only (maximum ad content rating "G"). See [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
 ## Tracking permission (App Tracking Transparency)
 After your first play session, the game asks for Apple's permission to use your advertising identifier.
@@ -28,7 +28,7 @@ After your first play session, the game asks for Apple's permission to use your 
 The game plays the same either way. You can change your choice at any time in **iPhone Settings → Privacy & Security → Tracking**.
 
 ## Consent (EEA, UK and Switzerland)
-Where the law requires it, the game shows Google's consent message (Google's User Messaging Platform) before any ad is requested, and no ads are requested until you've answered. In those regions a **Privacy choices** button in the game's Settings lets you change your answer later.
+Where the law requires it, including in the UK and Switzerland, the game shows Google's consent message (Google's User Messaging Platform) before any ad is requested. Google's ad software isn't started and **no ads are requested until you've answered**. If the game can't check whether consent is needed (for example, you're offline), it requests no ads at all. Until then video hints aren't available, but hint packs and the game's other hints work as usual. In those regions a **Privacy choices** button in the game's Settings lets you change your answer later.
 
 ## Children
 The game is not directed at children under 13, and we don't knowingly collect personal information from children under 13. If you believe a child has used the game and want help, contact us at the email address below.
