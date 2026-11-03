@@ -1,5 +1,5 @@
 # Privacy Policy: Fold the Map
-**Effective date:** October 28, 2026  ·  **Developer:** Kinetix Studio  ·  **Contact:** [jurbanstudio@mail.grokbot.com](mailto:jurbanstudio@mail.grokbot.com) (or [open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues))
+**Effective date:** November 2, 2026  ·  **Developer:** Kinetix Studio  ·  **Contact:** [jurbanstudio@mail.grokbot.com](mailto:jurbanstudio@mail.grokbot.com) (or [open a support request](https://github.com/StandardReplitUser/foldthemap-site/issues))
 
 Fold the Map ("the game") is a single-player puzzle game for iPhone. **There are no accounts, no login, no chat and no user-generated content, and we don't run any servers for the game.** We, the developer, don't receive your name, email, contacts, photos, location or payment details.
 
@@ -22,7 +22,7 @@ Google's SDK may collect the following, according to [Google's data disclosure](
 Google uses this data to serve and measure ads and to prevent fraud. The game asks Google for ads suitable for all ages only (maximum ad content rating "G"). See [Google's Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
 ## Tracking permission (App Tracking Transparency)
-After your first play session, the game asks for Apple's permission to use your advertising identifier.
+After you finish your first level, the game asks for Apple's permission to use your advertising identifier.
 - **If you allow it**, Google may use the IDFA to show you **personalized ads**.
 - **If you don't**, or until you've been asked, the IDFA isn't available and every ad is requested as **non-personalized**.
 The game plays the same either way. You can change your choice at any time in **iPhone Settings → Privacy & Security → Tracking**.
